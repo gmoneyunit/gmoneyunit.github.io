@@ -1,0 +1,118 @@
+a:hover {
+   color: #2db2ff;
+}
+
+a {
+    color: #2377ff;
+}
+
+/*a:visited {
+    color:#7740b7;
+}*/
+
+h1 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 50px;
+    margin-top: 30px;
+    margin-left: 150px;
+    margin-bottom: 25px;
+    
+    
+}
+
+h2 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 30px;
+    margin-left: 150px;
+    border-top: 3px solid #eee;
+    max-width: 960px;
+    position: relative;
+    padding-top: 10px;
+}
+
+h4 {
+    font-family: 'Oxygen', sans-serif;
+    margin-left: 150px;
+}
+
+.img-circle {
+    border-radius: 50%;
+    border: 3px;
+    border-style: solid;
+    border-color: #111;
+    margin-left: 150px;
+   
+}
+
+.headbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: relative;
+    
+}
+
+.headbar li {
+    float: left;
+}
+
+.headbar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.headbar li a:hover {
+    background-color: #111;
+}
+
+.headbar a:hover{
+    color: #2db2ff;
+}
+/* this made the heading lines go to the edge of the page*/
+body {
+    margin: 0;
+}
+
+p {
+    font-family: 'Oxygen', sans-serif;
+    margin-left: 150px;
+}
+
+#container {
+    min-width: 750px;
+}
+
+.address {
+    float: right;
+    margin-top: -160px;
+    margin-right: 740px;
+    
+}
+
+.email {
+    margin-top: 50px;
+}
+ul {
+    margin-left: 150px;
+}
+
+#skills {
+    float: right;
+    margin-top: -521px;
+    margin-right: 500px;
+    padding-top: 7px;
+}
+
+
+#achievements {
+    float:right;
+    position:relative;
+    padding-right: 275px;
+    margin-top: -300px;
+    
+}
