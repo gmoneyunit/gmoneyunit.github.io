@@ -15,9 +15,7 @@ h1 {
     font-size: 50px;
     margin-top: 30px;
     margin-left: 150px;
-    margin-bottom: 25px;
-    
-    
+    margin-bottom: 25px;   
 }
 
 h2 {
@@ -50,8 +48,7 @@ h4 {
     padding: 0;
     overflow: hidden;
     background-color: #333;
-    position: relative;
-    
+    position: relative;   
 }
 
 .headbar li {
@@ -90,13 +87,13 @@ p {
 .address {
     float: right;
     margin-top: -160px;
-    margin-right: 740px;
-    
+    margin-right: 740px;  
 }
 
 .email {
     margin-top: 50px;
 }
+
 ul {
     margin-left: 150px;
 }
