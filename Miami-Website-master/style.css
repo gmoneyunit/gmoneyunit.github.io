@@ -1,0 +1,250 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#bg_img{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+#bg1_img{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+#bg1_img:hover {
+    opacity: 0.9;
+    cursor: pointer;
+}
+
+#bg2_img{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+#bg2_img:hover {
+    opacity: 0.9;
+    cursor: pointer;
+}
+
+#bg3_img{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+#bg3_img:hover {
+    opacity: 0.9;
+    cursor: pointer;
+}
+
+#bg4_img{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+#bg4_img:hover {
+    opacity: 0.9;
+    cursor: pointer;
+}
+
+#content {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+#content1 {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+#content2 {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+#content3 {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+#content4 {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.headbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    position: relative;   
+}
+
+.headbar li {
+    float: right;
+    margin-top: 60px;
+    margin-right: 30px;
+    margin-bottom: 15px;
+    font-size: 20px; 
+}
+
+.headbar li a {
+    display: block;
+    color: black;
+    text-align: center;
+    /*padding: 14px 16px;*/
+    text-decoration: none;
+}
+
+.headbar a:hover{
+    color: #bcbcba;
+    transition-duration: 1.8s;
+}
+
+h1 {
+    font-size: 80px;
+    color: white;
+    text-shadow: -.1px 0 gold, 0 .1px gold, .1px 0 gold, 0 -.1px gold;
+    font-family: 'Monsieur La Doulaise', cursive;
+    position: relative;
+    margin-left: 60px;
+    margin-top: 0px;   
+}
+
+.button {
+    margin-top: 200px;
+    margin-left: 550px;
+    background-color: rgb(70, 72, 73);
+    border: solid;
+    border-color: #828282;
+    font-size: 28px;
+    color: white;
+    padding: 10px;
+    width: 175px;
+    text-align: center;
+    opacity: 0.8;
+    transition-duration: 1.8s;
+    overflow: hidden;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+.button:hover {
+    background-color: #dee0e2;
+}
+
+
+
+#the-slider img{  
+    padding-top: 10px;
+    margin: auto;
+    position: relative;
+    width: 60%; 
+    height: 425px;
+    overflow: hidden; 
+}
+
+/* lettering over images */
+#goldenhour { 
+   position: absolute; 
+   top: 690px; 
+   margin-left: 130px;
+   font-size: 45px;
+   width: 100%; 
+   color: white;
+}
+
+#clones { 
+   position: absolute; 
+   top: 1550px; 
+   margin-left: 130px;
+   font-size: 45px;
+   width: 100%; 
+   color: white;
+}
+
+#portraiture { 
+   position: absolute; 
+   top: 2440px; 
+   margin-left: 130px;
+   font-size: 45px;
+   width: 100%; 
+   color: white;
+}
+
+#bandw { 
+   position: absolute; 
+   top: 3330px; 
+   margin-left: 130px;
+   font-size: 45px;
+   width: 100%; 
+   color: white;
+}
+
+#logo {
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+#logo:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+
+.aboutpic {
+    border: 1px; border-style: solid; color: black;
+    margin-top: 50px;
+    margin-left: 475px;
+    height: 25%;
+    width: 25%; 
+}
+
+#about p {
+    margin-top: 20px;
+    margin-right: 300px;
+    margin-left: 300px;
+}
+
+
+#resumetext{
+    margin-left: 100px;
+}
+
+main {
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+#education{
+    margin-top: 15px;
+}
+
+#experience{
+    margin-top: 15px;
+}
+
+#skills {
+    margin-top: 15px;
+}
+
+#achievements {
+    margin-top: 15px;
+}
+
+a:hover{
+    color:#a5c7ff;
+}
